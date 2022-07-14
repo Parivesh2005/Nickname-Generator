@@ -10,3 +10,15 @@ body {
     text-align: center;
     border-radius: 25px;
   }
+p {
+    font-size: 20px;
+}
+#randNickBtn {
+    font-size: 15px;
+}
+#allNickBtn {
+    font-size: 15px;
+}
+#output{
+    font-size: 30px;
+}
